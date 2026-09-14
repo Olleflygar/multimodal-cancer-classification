@@ -1,6 +1,6 @@
 # Multimodal Cancer Classification
 
-A portfolio project from the **Advanced Deep Learning for Image Processing** course, developed for the **[Kaggle competition](https://www.kaggle.com/competitions/multimodal-cancer-classification-challenge-2026)**. The task is binary cancer classification using paired bright-field (BF) and fluorescence (FL) microscopy images.
+A project from the **Advanced Deep Learning for Image Processing** course, developed for the **[Kaggle competition](https://www.kaggle.com/competitions/multimodal-cancer-classification-challenge-2026)**. The task is binary cancer classification using paired bright-field (BF) and fluorescence (FL) microscopy images.
 
 **[View the notebook](Refactored_Cancer_Classification_Pipeline.ipynb)**
 
